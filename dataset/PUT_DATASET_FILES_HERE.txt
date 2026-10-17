@@ -1,0 +1,1 @@
+Download and extract the dataset described in README.md. Place the class folders in this directory.
